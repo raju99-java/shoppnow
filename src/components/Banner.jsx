@@ -36,7 +36,7 @@ const Banner = () => {
                             >
                                 {
                                     [1, 2, 3, 4, 5, 6, 7].map((img, i) => <Link className='lg-md:h-[440px] h-auto w-full block' key={i} to='#'>
-                                        <img src={`http://localhost:3000/images/banner/${img}.jpg`} alt="" />
+                                        <img src={`https://test-shoppnow.vercel.app/images/banner/${img}.jpg`} alt="" />
                                     </Link>)
                                 }
                             </Carousel>
