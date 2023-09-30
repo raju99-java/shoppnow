@@ -1,3 +1,3 @@
 # ShoppNow
 
-Live Url : 
+Live Url : https://test-shoppnow.vercel.app/
